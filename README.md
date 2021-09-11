@@ -41,6 +41,7 @@
 </div>
   
   #
-- 🔭 Hoje trabalho com desenvolvimento web
-- 🌱 Meu foco de estudo atualmente é React e REST
-- 👯 Meu objetivo é trabalhar com Full-stack, tenho experếncia no Front e gosto muito de desenvolvimento em Back-end
+ 
+### - 🔭 Hoje trabalho com desenvolvimento web
+### - 🌱 Meu foco de estudo atualmente é React e REST
+### - 👯 Meu objetivo é trabalhar com Full-stack, tenho experếncia no Front e gosto muito de desenvolvimento em Back-end
